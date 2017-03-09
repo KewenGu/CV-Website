@@ -1,0 +1,14 @@
+{
+  "name": "Kewen-CV",
+  "version": "0.1.11",
+  "description": "Curriculum Vitae - Kewen Gu",
+  "author": "Kewen Gu",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2"
+  }
+}
